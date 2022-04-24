@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419949364482",
+    "project_id": "fireauth-cb48e",
+    "storage_bucket": "fireauth-cb48e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419949364482:android:95c0fe8a032d59c68e6e1b",
+        "android_client_info": {
+          "package_name": "com.adl.fireauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419949364482-dhs6sfcvmvmkm6bjvljq7q6dmoc5u4l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8gEZb8eFlFtNHhPjpKYUMV3FhnuVhTIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419949364482-dhs6sfcvmvmkm6bjvljq7q6dmoc5u4l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
